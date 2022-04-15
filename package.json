@@ -1,0 +1,22 @@
+{
+  "name": "morden-js-deepdive",
+  "version": "1.0.0",
+  "description": "- [HTML5](markdown/html.md)\r - [CSS3](markdown/css.md)\r - [JavaScript(ES6)](markdown/js.md)\r - [Node.JS](markdown/nodejs.md)\r - [내가 모르는 개념, 단어](markdown/word.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AinRuthPai/morden-js-deepdive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AinRuthPai/morden-js-deepdive/issues"
+  },
+  "homepage": "https://github.com/AinRuthPai/morden-js-deepdive#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
